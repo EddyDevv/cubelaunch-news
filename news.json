@@ -1,10 +1,12 @@
-{
-            "title": "La pre-beta de CubeLaunch, salio a la luz. ✨",
-            "date": "2024-11-12T08:48:43.361Z",
-            "body": '<span>Así es, hemos terminado una parte de CubeLaunch para luego de la pre-beta sacar la beta.</span><p>Actualmente nuestros desarrolladores siguen trabajando el CubeLaunch, para sacarlo como regalo de navidad. 🎄<p><p><span>Unete a nuestro discord: </span><a href="https://discord.gg/AmVMHCj2Wx" class="text-cyan-400 underline as-link-external">https://discord.gg/AmVMHCj2Wx</a></p>',
-          },
-          {
-            "title": "¿Hemos vuelto?, CubeLaunch nueva versión! 👀",
-            "date": "2024-11-12T08:25:56.868Z",
-            "body": '<span> Asi como haz escuchando, CubeLaunch ha vuelto! ✨</span><p> No complace anunciar que estamos trabajando arduamente para hacer un lanzamiento de nueva versión de CubeLaunch.</p><p><span>Unete a nuestro discord: </span><a href="https://discord.gg/AmVMHCj2Wx" class="text-cyan-400 underline as-link-external">https://discord.gg/AmVMHCj2Wx</a></p>',
-          },
+[
+  {
+    "title": "La pre-beta de CubeLaunch, salio a la luz. ✨",
+    "date": "2024-11-12T08:48:43.361Z",
+    "body": "<span>Así es, hemos terminado una parte de CubeLaunch para luego de la pre-beta sacar la beta.</span><p>Actualmente nuestros desarrolladores siguen trabajando el CubeLaunch, para sacarlo como regalo de navidad. 🎄<p><p><span>Unete a nuestro discord: </span><a href=\"https://discord.gg/AmVMHCj2Wx\" class=\"text-cyan-400 underline as-link-external\">https://discord.gg/AmVMHCj2Wx</a></p>"
+  },
+  {
+    "title": "¿Hemos vuelto?, CubeLaunch nueva versión! 👀",
+    "date": "2024-11-12T08:25:56.868Z",
+    "body": "<span> Asi como haz escuchando, CubeLaunch ha vuelto! ✨</span><p> No complace anunciar que estamos trabajando arduamente para hacer un lanzamiento de nueva versión de CubeLaunch.</p><p><span>Unete a nuestro discord: </span><a href=\"https://discord.gg/AmVMHCj2Wx\" class=\"text-cyan-400 underline as-link-external\">https://discord.gg/AmVMHCj2Wx</a></p>"
+  }
+]
