@@ -1,0 +1,20 @@
+title:"¿Hemos vuelto?, CubeLaunch nueva versión! 👀";
+date:"2024-11-12T08:25:56.868Z";
+body:"
+<span>
+  Asi como haz escuchando, CubeLaunch ha vuelto! ✨{" "}
+</span>
+<p>
+  No complace anunciar que estamos trabajando arduamente
+  para hacer un lanzamiento de nueva versión de
+  CubeLaunch.
+</p>
+<p>
+<span>Unete a nuestro discord: </span>
+  <a
+    href="https://discord.gg/AmVMHCj2Wx"
+    className="text-cyan-400 underline as-link-external"
+  >
+  https://discord.gg/AmVMHCj2Wx
+  </a>
+</p>";
